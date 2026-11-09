@@ -14,7 +14,7 @@ scan analytics, and the same daily reports.
 🎨 **Canva app:** Available in the [Canva apps marketplace](https://www.canva.com/apps/) — search **Qrblox**
 🖥️ **Web portal:** [app.qrblox.com](https://app.qrblox.com)
 📚 **Docs:** [docs.qrblox.com](https://docs.qrblox.com)
-🧠 **MCP for agents:** [docs.qrblox.com/mcp.html](https://docs.qrblox.com/mcp.html)
+🧠 **MCP for agents:** [docs.qrblox.com/mcp.html](https://docs.qrblox.com/mcp.html) · [GitHub listing](https://github.com/Terahertz-Inc/qrblox-mcp)
 
 ---
 
